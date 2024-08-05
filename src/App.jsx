@@ -1,6 +1,6 @@
 import './app.scss';
-import Navbar from './componenetns/navbar/Navbar';
-import Sidebar from './componenetns/sidebar/Sidebar';
+import Navbar from './components/navbar/Navbar';
+import Sidebar from './components/sidebar/Sidebar';
 import Test from './Test';
 
 const App = () => {
